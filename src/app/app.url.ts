@@ -1,5 +1,5 @@
 export const AppUrl = {
     Login: 'login',
     Register: 'register',
-    Authen: 'authtication'
+    Authen: 'authentication'
 };
